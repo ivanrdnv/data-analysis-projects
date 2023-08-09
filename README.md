@@ -1,4 +1,6 @@
 # Yandex Practicum 
+This repository holds a collection of data science projects completed by me during training courses at Yandex.Praktikum. The projects are showcased through iPython Notebooks and accompanying readme markdown files.
+
 ## Projects
 
 | Project Name            | Description                                                                                                         | Stack                       |
