@@ -1,5 +1,5 @@
 # Data Analysis / Data Science Projects
-This repository features a range of projects showcasing my skills in data analysis, machine learning, and data visualization. Each project includes .ipynb and detailed readme markdown files to guide you through the studies and methodologies used.
+This repository features a range of projects showcasing my skills in data analysis, machine learning, and data visualization. Each project includes .ipynb and readme markdown files to guide you through the studies and methodologies used.
 
 ## Projects
 
